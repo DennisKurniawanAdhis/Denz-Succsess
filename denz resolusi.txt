@@ -1,0 +1,4 @@
+Denz Resolusi
+  - konsisten belajar golang
+  - konsisten membuat software
+  
